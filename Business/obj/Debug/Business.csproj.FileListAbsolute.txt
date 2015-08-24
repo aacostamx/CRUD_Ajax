@@ -1,0 +1,4 @@
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Business\bin\Debug\Business.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Business\bin\Debug\Business.pdb
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Business\obj\Debug\Business.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Business\obj\Debug\Business.pdb

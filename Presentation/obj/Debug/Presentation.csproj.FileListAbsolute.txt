@@ -1,0 +1,4 @@
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Presentation\bin\Presentation.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Presentation\bin\Presentation.pdb
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Presentation\obj\Debug\Presentation.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_Ajax\CRUD_Ajax\Presentation\obj\Debug\Presentation.pdb
